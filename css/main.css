@@ -330,12 +330,12 @@ Primary use:
 .how-social {
   color: #fff;
   font-size: 22px;
-  background-color: #ccc;
+  background-color: #2E426C;
   border-radius: 50%;
 }
 
 .how-social:hover {
-  background-color: #333;
+  background-color: #4267b2;
   color: #fff;
 }
 
